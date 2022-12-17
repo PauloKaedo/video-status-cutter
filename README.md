@@ -1,5 +1,5 @@
 # Video Status Cutter
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=VERSÃO1.0&color=GREEN&style=for-the-badge) ![Serviço](https://img.shields.io/static/v1?label=type&message=service&color=blue&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=VERSÃO1.0&color=GREEN&style=for-the-badge) ![Script](https://img.shields.io/static/v1?label=type&message=Script&color=blue&style=for-the-badge)
 
 ## 📑 Descrição
 
