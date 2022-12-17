@@ -26,7 +26,7 @@ $ pip install -r requirements.txt
 
 Na pasta raiz do script é possível encontrar um arquivo __config.json__. Nele duas variáveis devem ser preenchidas:
   - __video_path__: O caminho do vídeo que se encontra. __DEVE SER UTILIZADO PADRÃO LINUX__. _Ex: C:/Program Files/meu_video.mp4_
-  - __cut_offset__: O tamanho de cada clipe __EM SEGUNDOS__ que será gerado a partir do vídeo. Se o valor for deixado 0, o padrão será de 5 segundos.
+  - __cut_offset__: O tamanho __EM SEGUNDOS__ de cada clipe que será gerado a partir do vídeo. Se o valor for deixado 0, o padrão será de 5 segundos.
 
 ## 💻 Rodando a Aplicação
 
