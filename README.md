@@ -36,7 +36,7 @@ $ python main.py
 
 ## 📰 Changelog
 
-[Ver histórico de alterações do projeto.](https://github.com/PAULOKAEDO/video-status-cutter/blob/main/CHANGELOG.md)
+[Ver histórico de alterações do projeto.](https://github.com/PauloKaedo/video-status-cutter/blob/main/CHANGELOG.MD)
 
 
 
