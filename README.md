@@ -41,6 +41,7 @@ $ python main.py
 ## 💡 Ideias de Implementações Futuras
 
   • Interface gráfica
+  
   • Escolha de caminho para salvamento dos clipes cortados
 
 
