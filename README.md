@@ -38,5 +38,9 @@ $ python main.py
 
 [Ver histórico de alterações do projeto.](https://github.com/PauloKaedo/video-status-cutter/blob/main/CHANGELOG.MD)
 
+## 💡 Ideias de Implementações Futuras
+
+  • Interface gráfica
+  • Escolha de caminho para salvamento dos clipes cortados
 
 
